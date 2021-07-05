@@ -1,0 +1,12 @@
+#MyCanvas{
+    border-width:10px;
+    border-color: blueviolet;
+    border-style: dashed;
+    background-color: cornsilk;
+}
+body{
+    background-image:url("pic.png") ;
+    background-position: center;
+    background-size: cover;
+    
+}
